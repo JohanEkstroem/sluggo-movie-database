@@ -10,3 +10,10 @@ User searches or browses a list of made up movies in a Sakila movie database.
 - Users should see all movies with a pagination if search bar is empty.
 - Users should be able to filter the results.
 - Users should be able to order the result list in asc/desc order based on title, length or rating.
+
+
+### Functional:
+- Separated frontend/backend structure (backend still serves html/css/js files)
+- REST API for backend
+- Database should be containerized
+- Database should contain data from Sakila scheme
